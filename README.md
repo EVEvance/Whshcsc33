@@ -1,7 +1,7 @@
 # Whshcsc33
 ## 簡介
 此為文華百凌電研新版，有別於原本的社團網頁
-關於原本歷屆的網頁請至 (https://github.com/WHCSC/whcsc.github.io)[歷屆文華電研github]
+關於原本歷屆的網頁請至 [歷屆文華電研github](https://github.com/WHCSC/whcsc.github.io)
 
 ## 叁拾叁屆百凌幹部名單:
 * 社長: 魏羿軒
